@@ -1,5 +1,5 @@
 # Contribution Guidelines
 
 - Topic focus
-- Be nicer
+- Be nice
 - Be courteous
