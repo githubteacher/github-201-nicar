@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
 - Topic focus
-- Be nice
-- Be extra nice
-- Be polite
+- Be nicer
+- Eat your vegetables
+- Be courteous
