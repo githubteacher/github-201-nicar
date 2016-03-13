@@ -1,3 +1,6 @@
 # Contribution Guidelines
 
-TBD
+- Topic focus
+- Be nice
+- Be extra nice
+- Be polite
